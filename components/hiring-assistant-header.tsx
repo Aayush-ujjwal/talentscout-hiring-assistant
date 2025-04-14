@@ -8,7 +8,7 @@ export function HiringAssistantHeader() {
           <div className="rounded-md bg-blue-600 p-1.5">
             <LucideUsers className="h-5 w-5 text-white" />
           </div>
-          <span className="text-xl font-bold">TalentScout</span>
+          <span className="text-xl font-bold">AI-HA</span>
         </div>
         <div className="ml-auto flex items-center gap-4">
           <div className="flex items-center gap-2">
